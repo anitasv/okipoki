@@ -1,5 +1,5 @@
 {
-  "name": "gtts-tool",
+  "name": "okipoki",
   "version": "1.0.0",
   "description": "Command line utility to use google tts wavenet. ",
   "main": "index.js",
