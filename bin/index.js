@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const {stdin, stdout } = require("process");
 const readline = require('readline');
 const { spawn } = require('child_process');
