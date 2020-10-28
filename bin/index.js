@@ -42,21 +42,6 @@ if (options.help) {
 
 function readParagraphs(readable) {
     return readline.createInterface(readable);
-
-    // for await (const text of readline.createInterface(readable)) {
-    //     if (text.length < limit) {
-    //         yield text;
-    //     } else {
-    //         const splits = text.split('. ');
-    //         const outBuffer = []
-    //         for (const split of splits) {
-    //             const testOut = outBuffer.join('. ');
-    //             if (testOut.length + split.length >= limit) {
-    //                 testOut.length = 0;
-    //             }
-    //         }
-    //     }
-    // }
 }
 
 async function readAudioContent(promise) {
