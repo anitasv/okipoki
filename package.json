@@ -1,6 +1,6 @@
 {
   "name": "okipoki",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "Command line utility to use google tts wavenet. ",
   "main": "index.js",
   "repository": "git@github.com:anitasv/ggts.git",
