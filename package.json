@@ -8,8 +8,8 @@
   "license": "MIT",
   "bin": "./bin/index.js",
   "dependencies": {
-    "@google-cloud/text-to-speech": "^3.1.0",
-    "command-line-args": "^5.1.1",
-    "command-line-usage": "^6.1.0"
+    "@google-cloud/text-to-speech": "^5.7.0",
+    "command-line-args": "^6.0.1",
+    "command-line-usage": "^6.1.3"
   }
 }
